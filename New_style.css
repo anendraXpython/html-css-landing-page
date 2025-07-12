@@ -1,0 +1,163 @@
+
+body{
+    margin:0;
+    padding:0;
+    background-color:#e9f2f5;
+    background-image:url("project_image5.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.uni-padding{
+    padding: -20px;
+}
+#top-bar{
+    background-color:#A7C7E7;
+    padding-left: 40px;
+    /* margin-left: 30px; */
+    width:700px;
+    margin-left:300px;
+    margin-top: 40px;
+    border:3px solid black;
+    border-radius: 30px 30px 30px 30px;
+}
+a{
+    padding-left:30px;
+    text-decoration: none;
+    text-decoration: solid;
+}
+input{
+    margin-left: 30px;
+    border-radius: 10px 10px 10px 10px;
+}
+#logo-bar{
+    padding-left: 70px;
+    padding-top:70px;
+}
+#heading{
+     font-size: 25px;
+}
+h1{
+    padding-bottom: 100px;
+    height:10px;
+    margin-bottom: -80px;
+}
+#text{
+    margin-top: -59px;
+}
+#image{
+    float:right;
+    margin-top: -400px;
+    margin-right:100px;
+}
+#payon-logo{
+    padding-left: 50px;
+    margin-top:-50px;
+    /* border: 1px solid black; */
+}
+#copyright{
+    background-color:#A7C7E7 ;
+    text-align: center;
+    color:black;
+    margin-top: 0px;
+}
+#bill{
+    background-color: rgb(208, 255, 217);
+    width:580px;
+    border:1px solid black;
+    border-radius: 20px 20px 20px 20px;
+    padding:0px 0px 20px 20px;
+    box-shadow: 5px 10px 5px black;
+    margin-left: 50px;
+}
+#banking{
+    margin-bottom: 100px;
+    background-color: rgb(241, 243, 92);
+    width:580px;
+    border:1px solid black;
+    border-radius: 20px 20px 20px 20px;
+    padding:0px 0px 20px 20px;
+    box-shadow: 5px 10px 5px black;
+    margin-bottom: 50px;
+    float:right;
+    margin-top: -360px;
+    margin-right:45px;
+}
+#services{
+    margin-bottom:100px;
+    background-color:  #FFD1DC;
+    width:580px;
+    border:1px solid black;
+    border-radius: 20px 20px 20px 20px;
+    padding:0px 0px 20px 20px;
+    box-shadow: 5px 10px 5px black;
+    margin-bottom: 50px;
+    float:right;
+    margin-right:45px;
+    margin-top:-165px;
+}
+#more{
+    margin-left:600px;
+    margin-top:50px;
+}
+#font{
+     margin-left:530px;
+    margin-top:50px;
+}   
+#copy{
+    margin-top:100px;
+    box-shadow: 10px 5px 10px black;
+}
+#size{
+    background-color: #3A7880;
+    text-align: center;
+    color:white;
+    margin-bottom: -200px;
+}
+/* .no{
+    font-size: 50px;
+    margin-top: 300px;
+    display: inline-block;
+} */
+#numbers{
+    width:100px;
+    font-size: 100px;
+    margin-top: 300px;
+    display: inline-block;
+    margin-left: 70px;
+}
+#city{
+    padding-left: 70px;
+}
+#another{
+    margin-left:430px;
+    margin-top:100px; 
+    margin-bottom:-100px;
+    margin-bottom:50px;
+}
+#agent{
+    margin-top:100px;
+    box-shadow: 10px 5px 10px black; 
+    margin-left:100px;
+    
+}
+#agent_new{
+    /* margin-top:100px; */
+    box-shadow: 10px 5px 10px black;
+    margin-left:100px; 
+}
+#imp-links{
+    background-color:rgb(208, 255, 217);
+    color:white;
+    overflow: auto;
+    margin-top: 100px;
+    border:3px solid black;
+    text-decoration: none;
+}
+.div33{
+    width:20%;
+    float:left;
+}
+
+
+
+
